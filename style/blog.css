@@ -1,0 +1,123 @@
+/* First section start here*/
+
+
+.header-nav ul .blog-a a{
+    color: #F58A07;
+}
+.first-section{
+    background-color: #DCEAF5;
+}
+.first-text{
+    width: 45%;
+    padding-top: 161px;
+    margin-bottom: 128px;
+}
+.member{
+    display: flex;
+    justify-content: space-between;
+    width: 409px;
+    height: 32px;
+}
+.member-left img{
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-self: center;
+    margin-right: 8px;
+}
+.member p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #394149;
+    opacity: 0.87;
+    margin: 0%;
+}
+.member-left{
+    display: flex;
+}
+.first-text h1{
+    font-weight: 600;
+    line-height: 72px;
+    color: #1D3444;
+    width: 527px;
+    margin: 24px 0px;
+}
+.second-paragraph p{
+    line-height: 30px;
+    width: 559px;
+    margin: 24px 0px;
+}
+.member-read svg{
+    margin-left: 8px;
+}
+.first-header{
+    display: flex;
+    justify-content: space-between;
+}
+.tennis{
+    width: 45%;
+    margin-top: 128px;
+   
+}
+.tennis img{
+    width: 100%;
+    border-radius: 20px;
+    height: 493px;
+}
+
+/* Posts section start here*/
+h2{
+    margin-top: 128px;
+    margin-bottom: 64px;
+    margin-left: 18px;
+}
+
+.card{
+    width: 31%;
+    height: 507px;
+    background-color: #EDF7FF;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+.card img{
+    border-radius: 20px 20px 0px 0px;
+    height: 230px;
+    width: 100%;
+}
+.card .blog{
+    width: 336px;
+    margin: auto;
+}
+.card:hover{
+    background-color: #9c9c9c59;
+    transition: 0.5s;
+}
+.blog p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 24px;
+}
+.blog h3{
+    margin-top: 32px;
+}
+.blog svg{
+    margin-left: 8px;
+}
+.posts{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-bottom: 88px;
+    width: 100%;
+}
+#tag{
+    color: #0D1317;
+}
+.card-set{
+    margin-left: 18px;
+}
+.card-last{
+    margin-right: 18px;
+}

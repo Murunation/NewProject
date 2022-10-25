@@ -1,0 +1,104 @@
+/* contact-text section start here*/
+
+
+.left-text h2{
+    width: 561px;
+    margin-top: 0;
+    margin-bottom: 24px;
+    line-height: 64px;
+    color: #1D3444;
+}
+.contact-text{
+    display: flex;
+}
+.right-text{
+    display: flex;
+    margin-top: 142px;
+}
+.right-text h3{
+    font-weight: 500;
+    line-height: 30px;
+    color: #0D1317;
+    margin-top: 0%;
+    margin-bottom: 16px;
+}
+.right-text p{
+    margin: 16px 0px;
+}
+.left-text p{
+    width: 524px;
+    margin-bottom: 64px;
+}
+.left-text{
+    margin-top: 122px;
+    margin-right: 99px;
+}
+.location{
+    width: 270px;
+    margin-right: 76px;
+}
+.contact{
+    width: 159px;
+}
+.contact p{
+    margin-top: 0px;
+    margin-bottom: 4px;
+}
+
+/* contact input section start here */
+
+
+.contact-input{
+    display: flex;
+    justify-content: space-between;
+}
+.input-left{
+    width: 48%;
+    height: 456px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.input-left input{
+    width: 100%;
+    background: rgba(210, 218, 237, 0.17);
+    border-radius: 27px;
+    height: 54px;
+    border: none;
+    padding-left: 32px;
+    color: #9C9C9C;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.input-left .type-msg{
+    height: 160px;
+    padding-bottom: 109px;
+}
+.submit-button{
+    width: 119px;
+    height: 54px;
+    border-radius: 31px;
+    background: #F58A07;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.submit-button a{
+    color: #FFFFFF;
+}
+.submit-button:hover{
+    background-color: #FFFFFF;
+    color: #F58A07;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.499);
+    transition: 0.5s;
+}
+.submit-button a:hover{
+    color: #F58A07;
+}
+.map iframe{
+    border-radius: 20px;
+    height: 380px;
+    margin-bottom: 241px;
+}
+
